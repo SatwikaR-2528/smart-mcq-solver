@@ -1,4 +1,3 @@
-# DL-GenAI_project
 # Smart MCQ Solver
 
 Smart MCQ Solver is an NLP-based machine learning project developed to predict the correct answers for multiple-choice questions with five options (A–E).
